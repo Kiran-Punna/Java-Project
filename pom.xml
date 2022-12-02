@@ -18,7 +18,7 @@
     <description>Spring Boot 2, Hibernate, JPA and H2 - Example Project</description>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>1.8</java.version>
     </properties>
 
     <dependencies>
